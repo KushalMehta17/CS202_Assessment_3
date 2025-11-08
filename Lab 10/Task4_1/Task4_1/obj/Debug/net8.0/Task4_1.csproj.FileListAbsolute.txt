@@ -1,0 +1,14 @@
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\obj\Debug\net8.0\Task4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\obj\Debug\net8.0\Task4_1.AssemblyInfoInputs.cache
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\obj\Debug\net8.0\Task4_1.AssemblyInfo.cs
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\obj\Debug\net8.0\Task4_1.csproj.CoreCompileInputs.cache
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\bin\Debug\net8.0\Task4_1.exe
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\bin\Debug\net8.0\Task4_1.deps.json
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\bin\Debug\net8.0\Task4_1.runtimeconfig.json
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\bin\Debug\net8.0\Task4_1.dll
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\bin\Debug\net8.0\Task4_1.pdb
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\obj\Debug\net8.0\Task4_1.dll
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\obj\Debug\net8.0\refint\Task4_1.dll
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\obj\Debug\net8.0\Task4_1.pdb
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\obj\Debug\net8.0\Task4_1.genruntimeconfig.cache
+C:\Users\vedan\STT\Lab 10\Task4_1\Task4_1\obj\Debug\net8.0\ref\Task4_1.dll

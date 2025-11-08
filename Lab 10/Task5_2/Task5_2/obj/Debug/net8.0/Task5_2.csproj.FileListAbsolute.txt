@@ -1,0 +1,14 @@
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\obj\Debug\net8.0\Task5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\obj\Debug\net8.0\Task5_2.AssemblyInfoInputs.cache
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\obj\Debug\net8.0\Task5_2.AssemblyInfo.cs
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\obj\Debug\net8.0\Task5_2.csproj.CoreCompileInputs.cache
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\bin\Debug\net8.0\Task5_2.exe
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\bin\Debug\net8.0\Task5_2.deps.json
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\bin\Debug\net8.0\Task5_2.runtimeconfig.json
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\bin\Debug\net8.0\Task5_2.dll
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\bin\Debug\net8.0\Task5_2.pdb
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\obj\Debug\net8.0\Task5_2.dll
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\obj\Debug\net8.0\refint\Task5_2.dll
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\obj\Debug\net8.0\Task5_2.pdb
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\obj\Debug\net8.0\Task5_2.genruntimeconfig.cache
+C:\Users\vedan\STT\Lab 10\Task5_2\Task5_2\obj\Debug\net8.0\ref\Task5_2.dll
