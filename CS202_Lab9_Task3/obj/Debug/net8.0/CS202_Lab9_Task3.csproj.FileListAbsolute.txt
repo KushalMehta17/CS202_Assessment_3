@@ -1,0 +1,28 @@
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\bin\Debug\net8.0\CS202_Lab9_Task3.exe
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\bin\Debug\net8.0\CS202_Lab9_Task3.deps.json
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\bin\Debug\net8.0\CS202_Lab9_Task3.runtimeconfig.json
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\bin\Debug\net8.0\CS202_Lab9_Task3.dll
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\bin\Debug\net8.0\CS202_Lab9_Task3.pdb
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.AssemblyInfoInputs.cache
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.AssemblyInfo.cs
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.csproj.CoreCompileInputs.cache
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.dll
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\obj\Debug\net8.0\refint\CS202_Lab9_Task3.dll
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.pdb
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.genruntimeconfig.cache
+E:\Sem1_3rd Year\STT CSE\CS202_Lab9_Task3\obj\Debug\net8.0\ref\CS202_Lab9_Task3.dll
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\bin\Debug\net8.0\CS202_Lab9_Task3.exe
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\bin\Debug\net8.0\CS202_Lab9_Task3.deps.json
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\bin\Debug\net8.0\CS202_Lab9_Task3.runtimeconfig.json
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\bin\Debug\net8.0\CS202_Lab9_Task3.dll
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\bin\Debug\net8.0\CS202_Lab9_Task3.pdb
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.AssemblyInfoInputs.cache
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.AssemblyInfo.cs
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.csproj.CoreCompileInputs.cache
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.dll
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\obj\Debug\net8.0\refint\CS202_Lab9_Task3.dll
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.pdb
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\obj\Debug\net8.0\CS202_Lab9_Task3.genruntimeconfig.cache
+E:\Sem1_3rd Year\STT CSE\Lab 9\CS202_Lab9_Task3\obj\Debug\net8.0\ref\CS202_Lab9_Task3.dll
